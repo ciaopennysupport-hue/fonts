@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'JA JayaGiri Stamp';
+  src: url('https://raw.githubusercontent.com/ciaopennysupport-hue/fonts/main/JA%20JayaGiri-Stamp.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
